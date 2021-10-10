@@ -1,7 +1,7 @@
 package vehicles;
 
 /**
- * @author Shai Idan
+ * @author Shai Idan 
  * @version 1
  * border property 
  */

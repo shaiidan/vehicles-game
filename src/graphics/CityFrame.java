@@ -65,7 +65,7 @@ public class CityFrame extends JFrame implements ActionListener
 		}
 		else if(ev.getSource().equals(itemSubmenu))
 		{
-			JOptionPane.showMessageDialog(this,"Home Work 2\nGUI","Message",JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(this,"Vehicles-game\nGUI","Message",JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
 	
