@@ -3,6 +3,11 @@ package vehicles;
 import java.util.HashMap;
 import java.util.Map;
 
+
+/**
+ * @author Shai Idan
+ * @version 4
+ */
 public class VehicleMemento 
 {
 	private Map<Integer, Vehicle> vehiclesInfo = new HashMap<Integer, Vehicle>();

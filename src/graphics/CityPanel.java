@@ -26,7 +26,7 @@ import javax.swing.JPanel;
 import vehicles.*;
 
 /**
- * @author Shai Idan (311324602) and Harel Jerbi (204223184) 
+ * @author Shai Idan
  * @version 4 , 16/5/19
  */
 public class CityPanel extends JPanel implements ActionListener,Observer

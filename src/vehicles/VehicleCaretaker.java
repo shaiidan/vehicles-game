@@ -2,6 +2,11 @@ package vehicles;
 
 import java.util.Stack;
 
+
+/**
+ * @author Shai Idan
+ * @version 4 , 16/5/19
+ */
 public class VehicleCaretaker 
 {
 	private Stack<VehicleMemento> cityList = new Stack<VehicleMemento>();

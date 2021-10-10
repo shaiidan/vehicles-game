@@ -16,7 +16,7 @@ import graphics.CityPanel;
 import graphics.IDrawable;
 
 /**
- * @author Shai Idan (311324602) and Harel Jerbi (204223184) 
+ * @author Shai Idan
  * @version 4 , 16/5/19
  */
 public abstract class Vehicle extends Observable  implements IMoveable, IDrawable, Cloneable,Runnable,VehicleDraw

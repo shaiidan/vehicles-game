@@ -3,7 +3,7 @@ package vehicles;
 import graphics.*;
 
 /**
- * @author Shai Idan (311324602) and Harel Jerbi (204223184) 
+ * @author Shai Idan
  * @version 2
  */
 public class PackAnimal implements IAnimal,Cloneable

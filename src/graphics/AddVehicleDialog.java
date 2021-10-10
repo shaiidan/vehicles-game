@@ -15,7 +15,7 @@ import javax.swing.event.ChangeListener;
 import vehicles.*;
 
 /**
- * @author Shai Idan (311324602) and Harel Jerbi (204223184) 
+ * @author Shai Idan
  * @version 2
  */
 public class AddVehicleDialog extends JDialog implements ActionListener, ChangeListener
