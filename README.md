@@ -8,4 +8,4 @@ Singleton, Memento, Factory Method
 
 
 
-![plot]('./doc/images/game_image.png
+![plot]('./doc/images/game_image.png')
