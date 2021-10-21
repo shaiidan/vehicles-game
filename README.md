@@ -8,7 +8,12 @@ I built a vehicle game that allows you to select vehicles and transport them on 
 2. All vehicles except bike stop until you enter a "fuel" button. <br />
 3. When the vehicle reaches one of the middle corners the game randomly decides where it will continue. <br />
 
-I used design patterns like: 
+
+## Degin
+I used design patterns like: <br />
 Singleton, Memento, Factory Method 
+
 <br />
+<br />
+
  <img src="./doc/images/game_image.png" width="700" height="500" />
