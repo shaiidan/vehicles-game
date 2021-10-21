@@ -6,6 +6,4 @@ I built a vehicle game that allows you to select vehicles and transport them on 
 I used design patterns like: 
 Singleton, Memento, Factory Method 
 
-
-
-![plot]('/doc/images/game_image.png')
+ <img src="./doc/images/game_image.png" width="350" height="300" />
