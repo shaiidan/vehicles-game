@@ -11,7 +11,7 @@ I built a vehicle game that allows you to select vehicles and transport them on 
 
 ## Degin
 I used design patterns like: <br />
-Singleton, Memento, Factory Method 
+Singleton, Memento and Factory Method 
 
 <br />
 <br />
