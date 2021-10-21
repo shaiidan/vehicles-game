@@ -6,4 +6,4 @@ I built a vehicle game that allows you to select vehicles and transport them on 
 I used design patterns like: 
 Singleton, Memento, Factory Method 
 
- <img src="./doc/images/game_image.png" width="500" height="550" />
+ <img src="./doc/images/game_image.png" width="700" height="500" />
